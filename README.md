@@ -1,4 +1,4 @@
-# Spark-Streaming-
+# Spark-Streaming-BMI
 Spark Streaming 流式计算在人群BMI指数统计上的应用
 
 Spark框架由scala编写，支持scala，java，python编程语言。
